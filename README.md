@@ -1,4 +1,3 @@
-# FirstNewRepo
-Creating a new repo
+# Repo for python practice files
 
-While trying to think of my ***_dream_*** project, I am creating a test repo.
+Created a test ***new repository***, to keep track of my practice scripts.
