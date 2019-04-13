@@ -6,7 +6,7 @@ def cakes(recipe, available):
     for key, item in recipe.items():
         l.append(available[key]/item)
 
-    return int(min(l))
+    return int(min(l))g
 
 # test.describe('Testing Pete, the Baker')
 # test.it('gives us the right number of cakes')
